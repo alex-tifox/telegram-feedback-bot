@@ -1,3 +1,4 @@
+import configuration.Configuration;
 import org.telegram.telegrambots.api.methods.ForwardMessage;
 import org.telegram.telegrambots.api.methods.send.SendMessage;
 import org.telegram.telegrambots.api.objects.Message;
@@ -65,11 +66,11 @@ public class Bot extends TelegramLongPollingBot{
     }
 
     public String getBotUsername() {
-        return "TypeSmartBot";
+        return Configuration.BOT_TOKEN;
     }
 
     public String getBotToken() {
-        return "614182466:AAG1jgDM6Ho4zDI_7UMz7hwg_VvHNrO_meU";
+        return Configuration.BOT_NAME;
     }
 
 }
