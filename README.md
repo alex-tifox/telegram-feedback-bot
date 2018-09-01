@@ -6,5 +6,5 @@ Further functionality - WIP
 
 Developer -
 # Alex Fox
-- tg - @MisterTheFoxy 
+- Telegram - @MisterTheFoxy 
 - LinkedIn - linkedin.com/in/otilnyi
