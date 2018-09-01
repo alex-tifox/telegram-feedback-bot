@@ -1,3 +1,10 @@
-# feedback-bot-java
+# Feedback Bot
 
-Primitive feedback bot for Telegram. Further functionality - WIP
+It's FeedBack Bot for Telegram messenger, written on Java. Work In Progress
+
+Further functionality - WIP
+
+Developer -
+# Alex Fox
+- tg - @MisterTheFoxy 
+- LinkedIn - linkedin.com/in/otilnyi
