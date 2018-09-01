@@ -1,3 +1,4 @@
+import commands.StartCmd;
 import configuration.Configuration;
 import org.telegram.telegrambots.api.methods.ForwardMessage;
 import org.telegram.telegrambots.api.methods.send.SendMessage;
