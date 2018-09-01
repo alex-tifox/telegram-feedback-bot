@@ -1,3 +1,5 @@
+package commands;
+
 import org.telegram.telegrambots.api.objects.Message;
 
 public class StartCmd {
